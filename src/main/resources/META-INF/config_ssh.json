@@ -1,0 +1,5 @@
+{
+	"username" : "root",
+	"password" : "root",
+	"file_key" : "/root/.ssh/known_hosts"
+}

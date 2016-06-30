@@ -1,0 +1,6 @@
+{
+	"link_upload" : "/mnt/san/source/upload",
+	"link_download" : "/mnt/san/source/finish",
+	"link_download_stream" : "/mnt/san/source/stream",
+	"uri" : "http://10.31.76.11:8080/transcode"
+}
